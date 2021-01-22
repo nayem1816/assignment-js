@@ -1,4 +1,4 @@
-
+// Github Link : https://github.com/nayem1816/assignment-js
 
 
 //kilometerToMeter Start
@@ -79,5 +79,7 @@ function megaFriend(friendName) {
     return max;
 }
 console.log(megaFriend(["Nayem", "Ridowan", "Siam Morol", "Hridoy"]));
+
+
 
 
